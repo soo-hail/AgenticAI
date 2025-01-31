@@ -1,0 +1,6 @@
+streamlit
+crewai
+crewai_tools
+PyPDF2
+faiss-cpu
+snowflake-connector-python
