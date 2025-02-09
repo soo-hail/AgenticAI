@@ -1,2 +1,2 @@
 # AgenticAI
-Projects and experiments on building autonomous AI agents
+Projects and experiments on building autonomous AI agents.....
